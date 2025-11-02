@@ -1,0 +1,38 @@
+2025-11-02 13:12:00,366 - root - INFO - Bot ishga tushmoqda...
+2025-11-02 13:12:00,393 - root - INFO - Ma'lumotlar bazasi tayyor
+2025-11-02 13:13:23,107 - root - INFO - Bot ishga tushmoqda...
+2025-11-02 13:13:23,108 - root - INFO - Ma'lumotlar bazasi tayyor
+2025-11-02 13:13:23,122 - root - INFO - Bot muvaffaqiyatli ishga tushdi!
+2025-11-02 13:16:34,203 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-02 13:22:07,216 - root - INFO - Bot ishga tushmoqda...
+2025-11-02 13:22:07,239 - root - INFO - Ma'lumotlar bazasi tayyor
+2025-11-02 13:22:07,254 - root - INFO - Bot muvaffaqiyatli ishga tushdi!
+2025-11-02 13:24:01,682 - root - INFO - Vazifa qo'shildi: 6240770211 - kitob oʻqish
+2025-11-02 13:24:27,971 - root - INFO - Vazifa bajarildi: 1
+2025-11-02 13:28:25,829 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-02 13:29:02,425 - root - INFO - Bot ishga tushmoqda...
+2025-11-02 13:29:02,426 - root - INFO - Ma'lumotlar bazasi tayyor
+2025-11-02 13:29:02,439 - root - INFO - Bot muvaffaqiyatli ishga tushdi!
+2025-11-02 14:20:19,715 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-02 19:17:07,490 - root - INFO - Bot ishga tushmoqda...
+2025-11-02 19:17:07,688 - root - INFO - Ma'lumotlar bazasi tayyor
+2025-11-02 19:17:07,732 - root - INFO - Bot muvaffaqiyatli ishga tushdi!
+2025-11-02 19:27:22,203 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 103] Software caused connection abort
+2025-11-02 19:27:22,206 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8279065561)
+2025-11-02 19:27:23,227 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2025-11-02 19:27:23,227 - aiogram.dispatcher - WARNING - Sleep for 1.413799 seconds and try again... (tryings = 1, bot id = 8279065561)
+2025-11-02 19:27:24,660 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2025-11-02 19:27:24,661 - aiogram.dispatcher - WARNING - Sleep for 1.789999 seconds and try again... (tryings = 2, bot id = 8279065561)
+2025-11-02 19:27:26,462 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2025-11-02 19:27:26,463 - aiogram.dispatcher - WARNING - Sleep for 2.457409 seconds and try again... (tryings = 3, bot id = 8279065561)
+2025-11-02 19:28:04,376 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 103] Software caused connection abort
+2025-11-02 19:28:04,378 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8279065561)
+2025-11-02 19:28:05,386 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2025-11-02 19:28:05,388 - aiogram.dispatcher - WARNING - Sleep for 1.255175 seconds and try again... (tryings = 1, bot id = 8279065561)
+2025-11-02 19:28:06,652 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2025-11-02 19:28:06,653 - aiogram.dispatcher - WARNING - Sleep for 1.533564 seconds and try again... (tryings = 2, bot id = 8279065561)
+2025-11-02 19:42:03,924 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-02 19:42:20,088 - root - INFO - Bot ishga tushmoqda...
+2025-11-02 19:42:20,089 - root - INFO - Ma'lumotlar bazasi tayyor
+2025-11-02 19:42:20,110 - root - INFO - Bot muvaffaqiyatli ishga tushdi!
+2025-11-02 20:35:18,057 - aiogram.dispatcher - WARNING - Received SIGINT signal
